@@ -1,0 +1,40 @@
+body{
+    background: rgba(34, 55, 107, 0.712);
+    color: antiquewhite;
+}
+
+.jumbo-color{
+    background-color: rgba(18, 30, 61, 0.848);
+}
+
+.color{
+    color: #070228;
+}
+
+.border{
+    border: 10px solid black;
+}
+
+.dark{
+    color: #000;
+}
+
+.navbar-brand{
+    margin-left: -1rem;
+}
+
+.pixel{
+    border: 3px solid white;
+}
+
+
+@media (min-width:800px) {
+
+    .mleft1{
+        margin-left: 13rem;
+    }
+    
+    .mleft2{
+        margin-left: 20rem;
+    }
+}
